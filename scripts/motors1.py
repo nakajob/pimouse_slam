@@ -1,8 +1,4 @@
 #!/usr/bin/env python
-#motors1.py
-#Copyright (c) 2016 Ryuichi Ueda <ryuichiueda@gmail.com>
-#This software is released under the MIT License.
-#http://opensource.org/licenses/mit-license.php
 
 import sys, rospy, math, tf
 from pimouse_ros.msg import MotorFreqs
