@@ -15,8 +15,13 @@
     <param name="srt" value="0.1"/>
     <param name="str" value="0.1"/>
     <param name="stt" value="0.3"/>
+    
+    <param name="linearUpdate" value="0.05"/>
+    <param name="anglarUpdate" value="0.1"/>
 
-    <param name="particles" value="100"/>
+    <param name="map_update_interval" value="2.0"/>
+
+    
+    <param name="particles" value="200"/>
   </node>
 </launch>
-
